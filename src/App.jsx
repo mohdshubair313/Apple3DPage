@@ -1,4 +1,4 @@
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Highlight from './components/Highlight'
 import Navbar from './components/Navbar'
 import Model from './components/Model'
